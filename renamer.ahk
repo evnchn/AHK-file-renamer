@@ -42,7 +42,7 @@ Send, %OutputMatch%_%OutputPoststrf%.%extension%
 } 
 
 
-URLDownloadToFile https://github.com/evnchn/AHK-file-renamer/raw/master/renamer, renamer.ahk
+URLDownloadToFile https://raw.githubusercontent.com/evnchn/AHK-file-renamer/main/renamer.ahk, renamer.ahk
 
 Reload
 
